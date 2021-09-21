@@ -1,0 +1,33 @@
+.root{
+    position: 'absolute'; left :'50%'; top: '50%';
+    transform: 'translate(-50%, -50%)';
+
+}
+
+.title{
+    font-size: 14%
+}
+
+.pos{
+    margin-bottom: 12%;
+}
+
+.textField{
+    margin-right:1%;
+}
+
+.label{
+    font-size:"80%";
+    color:"black"
+}
+.validStyle{
+    font-size: 60% !important;
+    color: red;
+}
+.link {
+    color: "#00C1B1 !important"; 
+    cursor: "pointer"; 
+}
+link:hover{
+    color:red
+}
